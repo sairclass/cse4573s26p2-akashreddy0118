@@ -5,9 +5,9 @@
 
 Please update this README.md to fill the blank below before submiting to UB Learn!
 
-Name: __________
+Name: ___Akash Kumar Reddy Pallerla_______
 
-UBIT: __________
+UBIT: ____50628517______
 
 ## Implementation
 
@@ -45,7 +45,7 @@ python task2.py --input_path images/Bonus2 --output outputs/bonus2.png --json bo
 Note that when packing your submission, the script would run your code before packing.
 
 ```bash
-bash pack_submission.sh <Your_UBIT_name>
+bash pack_submission.sh <apallerl>
 ```
 Change **<Your_UBIT_name>** with your UBIT name.
 The resulting zip file should be named **"submission\_<Your_UBIT_name>.zip"**, and it should contain 2 files, named **"task2.json"**, **"stitching.py"** and **images** folder and **outputs** folder, and optional **"bonus1.json"** and **"bonus2.json"** files.  If not, there is something wrong with your code/filename, please go back and check.
